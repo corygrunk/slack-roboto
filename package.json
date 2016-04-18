@@ -1,0 +1,19 @@
+{
+  "name": "slack-roboto",
+  "version": "0.0.1",
+  "description": "A slack bot.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corygrunk/slack-roboto.git"
+  },
+  "author": "Cory Grunkemeyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corygrunk/slack-roboto/issues"
+  },
+  "homepage": "https://github.com/corygrunk/slack-roboto#readme",
+  "dependencies": {
+    "beepboop-botkit": "^1.1.2"
+  }
+}
